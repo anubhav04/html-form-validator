@@ -1,0 +1,22 @@
+{
+  "name": "html-form-validator",
+  "version": "0.1.0",
+  "description": "Input fields validation functions for all javscript applications",
+  "main": "index.js",
+  "author": "anubhav.techanthusiast@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhav04/html-form-validator.git"
+  },
+  "keywords":[
+    "form validator",
+    "validation",
+    "form validation",
+    "html form validation",
+    "input field validation"
+  ]
+}
